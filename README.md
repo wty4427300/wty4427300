@@ -6,7 +6,3 @@
 
 [![Contribution languages](https://ossinsight-lite-lfqsmev6b-wty4427300.vercel.app/widgets/contribution-most-used-languages/thumbnail.png)](https://ossinsight-lite-lfqsmev6b-wty4427300.vercel.app/widgets/contribution-most-used-languages)
 
-## Contribution time distribution
-
-[![Contribution time distribution](https://ossinsight-lite-lfqsmev6b-wty4427300.vercel.app/widgets/contribution-time-distribution/thumbnail.png)](https://ossinsight-lite-lfqsmev6b-wty4427300.vercel.app/widgets/contribution-time-distribution)
-
